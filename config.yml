@@ -1,0 +1,37 @@
+API_ID: 19594173
+API_HASH: 804917648148d00a2664456d9ebfcb6e
+BOT_TOKEN: 5501769531:AAF11hztpp90HyCMFloaGA-bO8hugfKONiI
+
+
+MONGO_URL: mongodb+srv://victorsdeshi:victorsdeshi@cluster0.a5xl79g.mongodb.net/?retryWrites=true&w=majority
+REDIS_URI:redis-13584.c256.us-east-1-2.ec2.cloud.redislabs.com
+REDIS_PORT:13584
+REDIS_PASS:sDrpRaborJBqeL7QB7wKqZtGN90nhxVa
+
+SESSION_API_ID: 8726785
+SESSION_API_HASH: 2795a4a0d357cc21e09cde7dfbdaf2eb
+SESSION_STRING: BQC1BTLOBNaiP_mDPI8KFjxF6j_C_sAeM4TgzB8KZVWNlKZQDpIJcJsfeRF1zskNEDpEPyjJPtwvrATDDl-AeMvX_8dEWRl5r4270bbXslAntpu8ufIMqsHzdleLVG6nnqhKxmsPRyrXdm0sXwfJ5wAFt4Kx_shm5xP4K_dh7IKWL7IbkgzrHMxcRWP1ZeYn_fq_1avUzBYMB0n5_mhJx53m5WOVp1WiMKtClgxO6X5VGIZQkKzCuw4Pt9a9gxdsKAQGAzDdHyfcM90ckHiXz9I7FF92QpuEslSRtg0j8Qk5wTFWDpwZpYEfEXYDSyOWzMLJAlWYtiVRhrEuHsSCJQyxeFe8zQA
+
+ADMINS: 
+  - 5441318472
+  - 
+
+OWNER: 5441318472
+OWNER: 848784349
+
+BOT_PIC: https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg
+OWNER_PIC: https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg
+
+
+SUPPORT_CHAT:  
+# LOG_CHAT: -1001657108198
+LOG_CHAT: -738456625
+
+
+
+HANDLERS: 
+  - "."
+  - "!"
+  - "/"
+  - "?"
+

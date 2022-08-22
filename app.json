@@ -1,0 +1,90 @@
+"API_ID": { 
+  "descripción":"",
+  "value": "19594173",
+  "required": true
+},
+"API_HASH": { 
+  "descripción":"",
+  "value": "804917648148d00a2664456d9ebfcb6e",
+  "required": true
+},
+"BOT_TOKEN": {
+            "description": "Enter your Bot Token Here. Get it from @Botfather",
+            "value": "5501769531:AAF11hztpp90HyCMFloaGA-bO8hugfKONiI",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "",
+            "value": "mongodb+srv://victorsdeshi:victorsdeshi@cluster0.a5xl79g.mongodb.net/?retryWrites=true&w=majority",
+            "required": true
+        },
+        "REDIS_URI": {
+            "description": "",
+            "value": "redis-13584.c256.us-east-1-2.ec2.cloud.redislabs.com",
+            "required": true
+        },
+        "REDIS_PORT": {
+            "description": "",
+            "value": "13584",
+            "required": true
+        },
+        "REDIS_PASS": {
+            "description": "",
+            "value": "sDrpRaborJBqeL7QB7wKqZtGN90nhxVa",
+            "required": true
+        },
+        "SESSION_API_ID": {
+            "description": "",
+            "value": "8726785",
+            "required": true
+        },
+        "SESSION_API_HASH": {
+            "description": "",
+            "value": "2795a4a0d357cc21e09cde7dfbdaf2eb",
+            "required": true
+        },
+        "SESSION_STRING": {
+            "description": "",
+            "value":"BQC1BTLOBNaiP_mDPI8KFjxF6j_C_sAeM4TgzB8KZVWNlKZQDpIJcJsfeRF1zskNEDpEPyjJPtwvrATDDl-AeMvX_8dEWRl5r4270bbXslAntpu8ufIMqsHzdleLVG6nnqhKxmsPRyrXdm0sXwfJ5wAFt4Kx_shm5xP4K_dh7IKWL7IbkgzrHMxcRWP1ZeYn_fq_1avUzBYMB0n5_mhJx53m5WOVp1WiMKtClgxO6X5VGIZQkKzCuw4Pt9a9gxdsKAQGAzDdHyfcM90ckHiXz9I7FF92QpuEslSRtg0j8Qk5wTFWDpwZpYEfEXYDSyOWzMLJAlWYtiVRhrEuHsSCJQyxeFe8zQA",
+            "required": true
+        },
+        "ADMINS": {
+            "description": "",
+            "value": "5441318472",
+            "required": false
+        },
+        "OWNER": {
+            "description": "",
+            "value": "5441318472",
+            "required": false
+        },
+           "BOT_PIC": {
+            "description": "",
+            "value": "https://te.legra.ph/file/a44cc6ec55eeafec0c558.jpg",
+            "required": false
+        },
+      "OWNER_PIC": {
+            "description": "",
+            "value": "https://te.legra.ph/file/280c6f1a2fbf10caf0822.jpg",
+            "required": false
+        },
+          "LOG_CHAT": {
+            "description": "",
+            "value": "-738456625",
+            "required": true
+        },
+          "HANDLERS": {
+            "description": "",
+            "value": "  - "."
+  - "!"
+  - "/"
+  - "?"",
+            "required": false
+        },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
