@@ -1,1 +1,1 @@
-web: python3 -m mills
+worker: start.bat
